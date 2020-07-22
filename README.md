@@ -6,6 +6,8 @@
 2. Maven 
 
 
+
+
 **Note: Configure web-driver path and test email address.**
 	
 
