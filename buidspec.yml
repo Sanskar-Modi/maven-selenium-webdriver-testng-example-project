@@ -35,5 +35,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/java*/*
+    - target/maven*/*
   discard-paths: yes 
